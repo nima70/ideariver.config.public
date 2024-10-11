@@ -1,0 +1,6 @@
+{
+  "topics": {
+    "taskQueue": "task_queue",
+    "responseQueue": "response_queue"
+  }
+}
